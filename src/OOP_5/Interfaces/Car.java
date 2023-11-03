@@ -1,6 +1,6 @@
 package OOP_5.Interfaces;
 
-public class Car implements Engine,brakes,Media{// implements is used to include interfaces.. interfaces support multiple level inheritance.. we can use extend between interfaces to inherit their properties
+public class Car implements Engine,brakes,Media{// implements is used to include interfaces. interfaces support multiple level inheritance… we can use extend between interfaces to inherit their properties
     @Override
     public void start() {
         System.out.println("The Car is been Started");

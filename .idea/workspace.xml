@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="031adcfe-1abe-49bb-bea2-eeb409d7d30f" name="Changes" comment="OOP_4">
-      <change afterPath="$PROJECT_DIR$/src/OOP_5/Interfaces/CDplayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_5/Interfaces/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_5/Interfaces/ElectricEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_5/Interfaces/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_5/Interfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_5/Interfaces/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_5/Interfaces/NestedInterfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_5/Interfaces/NiceCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_5/Interfaces/PowerEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_5/Interfaces/brakes.java" afterDir="false" />
+    <list default="true" id="031adcfe-1abe-49bb-bea2-eeb409d7d30f" name="Changes" comment="OOP_5">
+      <change afterPath="$PROJECT_DIR$/src/OOP_6/CustomArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_5/Interfaces/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_5/Interfaces/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +124,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699028901282</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="OOP_4">
+      <option name="closed" value="true" />
+      <created>1699035175278</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699035175278</updated>
+    </task>
+    <task id="LOCAL-00006" summary="OOP_5">
+      <option name="closed" value="true" />
+      <created>1699035246777</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699035246777</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -195,7 +203,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="OOP_3" />
     <MESSAGE value="OOP_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP_4" />
+    <MESSAGE value="OOP_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP_5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
