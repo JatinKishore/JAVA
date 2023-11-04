@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="031adcfe-1abe-49bb-bea2-eeb409d7d30f" name="Changes" comment="OOP_6">
+      <change afterPath="$PROJECT_DIR$/src/CardGame/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_6/LambdaFunctions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_6/WildCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_6/WildCard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699075125402</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="OOP_6">
+      <option name="closed" value="true" />
+      <created>1699081643738</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699081643738</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="UnknownFeatures">

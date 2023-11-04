@@ -11,7 +11,7 @@ public class WildCard<T extends  Number> {//this will only accept sub objects th
 
     private Object[] data;
     private static  int DEFAULT_SIZE=10 ;
-    public void getLis(List<? extends  Number/*This accepts all the subclasses of Number class .This is known as WildCard Bound*/> list){
+    public void getLis(List<? extends  Number/*This accepts all the subclasses of Number class .This is known as WildCard Bound...But if we removed the ? extends then it will accept only the Number class not even its subclasses*/> list){
 
     }
 
