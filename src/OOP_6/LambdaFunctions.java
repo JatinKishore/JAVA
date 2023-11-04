@@ -14,7 +14,7 @@ public class LambdaFunctions {
         }
 
         al.forEach((item)-> System.out.println(item*2));//lambda function
-        Consumer<Integer> fun = (item) -> System.out.println(item*3); // forEach() function is a Consumer<T> type, that it takes only one datatype and returns nothing
+        Consumer<Integer> fun = (item) -> System.out.println( item*3); // forEach() function is a Consumer<T> type, that it takes only one datatype and returns nothing
         al.forEach(fun);
         Operation sum = (a,b)->a+b;
         Operation sub = (a,b)->a-b;
@@ -23,10 +23,10 @@ public class LambdaFunctions {
 
         LambdaFunctions myCal = new LambdaFunctions();
 
-        System.out.print(myCal.operate(10,5,sum));
-        System.out.print(myCal.operate(10,5,mul));
-        System.out.print(myCal.operate(10,5,sub));
-        System.out.print(myCal.operate(10,5,div));
+        System.out.println(myCal.operate(11,5,sum));
+        System.out.println(myCal.operate(10,5,mul));
+        System.out.println(myCal.operate(1,5,sub));
+        System.out.println(myCal.operate(0,5,div));
 
 
     }
