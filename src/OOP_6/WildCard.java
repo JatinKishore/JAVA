@@ -7,14 +7,17 @@ package OOP_6;
 //        list.size();
 //        list.isEmpty();
 import java.util.*;
-public class CustomArrayList<T> {
+public class WildCard<T extends  Number> {//this will only accept sub objects that are of type Number wont accpet string , booleans and so on
 
     private Object[] data;
     private static  int DEFAULT_SIZE=10 ;
+    public void getLis(List<? extends  Number/*This accepts all the subclasses of Number class .This is known as WildCard Bound*/> list){
+
+    }
 
 
     private  int size = 0;
-    public CustomArrayList(){
+    public WildCard(){
         this.data = new Object[DEFAULT_SIZE];
     }
 
