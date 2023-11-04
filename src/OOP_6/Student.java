@@ -8,6 +8,10 @@ public class Student implements Comparable<Student> {
         this.marks = marks;
     }
 
+    @Override
+    public String toString() {
+        return marks+"";
+    }
 
     @Override
     public int compareTo(Student o) {
