@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="031adcfe-1abe-49bb-bea2-eeb409d7d30f" name="Changes" comment="OOP_6">
-      <change afterPath="$PROJECT_DIR$/src/OOP_6/Cloning/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_6/Cloning/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_6/ExeceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_6/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_7/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_7/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699120962564</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="OOP_6">
+      <option name="closed" value="true" />
+      <created>1699153619861</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699153619861</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="UnknownFeatures">
