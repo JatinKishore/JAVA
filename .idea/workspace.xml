@@ -4,55 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="031adcfe-1abe-49bb-bea2-eeb409d7d30f" name="Changes" comment="OOP_7">
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Projects/LibraryProject/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/MAANG_Questions/PhonePad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="031adcfe-1abe-49bb-bea2-eeb409d7d30f" name="Changes" comment="OOP_7 &amp; Project Works on OOPS">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/MAANG_Questions/Dice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CardGame/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/Projects/CardGame/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOPS_2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS_2/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOPS_2/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_3/properties/Encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/properties/Encapsulation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_3/properties/Inheritence/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/properties/Inheritence/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_3/properties/Inheritence/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/properties/Inheritence/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_3/properties/Inheritence/child_box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/properties/Inheritence/child_box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_3/properties/polymorphism/types_of_polymorphism/Compile_time_ploymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/properties/polymorphism/types_of_polymorphism/Compile_time_ploymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_3/properties/polymorphism/types_of_polymorphism/Run_Time_PolyMorphism/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/properties/polymorphism/types_of_polymorphism/Run_Time_PolyMorphism/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_3/properties/polymorphism/types_of_polymorphism/Run_Time_PolyMorphism/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/properties/polymorphism/types_of_polymorphism/Run_Time_PolyMorphism/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_3/properties/polymorphism/types_of_polymorphism/Run_Time_PolyMorphism/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/properties/polymorphism/types_of_polymorphism/Run_Time_PolyMorphism/Shapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_3/properties/polymorphism/types_of_polymorphism/Run_Time_PolyMorphism/Sqaure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/properties/polymorphism/types_of_polymorphism/Run_Time_PolyMorphism/Sqaure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_3/properties/polymorphism/types_of_polymorphism/Run_Time_PolyMorphism/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/properties/polymorphism/types_of_polymorphism/Run_Time_PolyMorphism/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_4/AccessControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_4/AccessControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_4/Subclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_4/Subclass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Abstract/Daughter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Abstract/Daughter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Abstract/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Abstract/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Abstract/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Abstract/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Abstract/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Abstract/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Interfaces/CDplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Interfaces/CDplayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Interfaces/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Interfaces/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Interfaces/ElectricEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Interfaces/ElectricEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Interfaces/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Interfaces/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Interfaces/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Interfaces/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Interfaces/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Interfaces/Media.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Interfaces/NestedInterfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Interfaces/NestedInterfaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Interfaces/NiceCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Interfaces/NiceCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Interfaces/PowerEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Interfaces/PowerEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_5/Interfaces/brakes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_5/Interfaces/brakes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_6/Cloning/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_6/Cloning/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_6/Cloning/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_6/Cloning/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_6/CustomArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_6/CustomArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_6/ExeceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_6/ExeceptionHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_6/GenericInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_6/GenericInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_6/LambdaFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_6/LambdaFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_6/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_6/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_6/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_6/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_6/WildCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_6/WildCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_7/Enums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_7/Enums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP_7/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPS/OOP_7/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/MAANG_Questions/PhonePad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/MAANG_Questions/PhonePad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +68,7 @@
       <recent name="OOP_6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPS.properties.polymorphism.types_of_polymorphism.Run_Time_PolyMorphism.Main" />
       <module name="JAVA_Classes" />
@@ -142,8 +97,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699171237468</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="OOP_7 &amp; Project Works on OOPS">
+      <option name="closed" value="true" />
+      <created>1699320847952</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699320847952</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -326,7 +289,8 @@
     <MESSAGE value="OOP_5" />
     <MESSAGE value="OOP_6" />
     <MESSAGE value="OOP_7" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP_7" />
+    <MESSAGE value="OOP_7 &amp; Project Works on OOPS" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP_7 &amp; Project Works on OOPS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
