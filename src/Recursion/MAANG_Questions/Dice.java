@@ -1,7 +1,7 @@
 package Recursion.MAANG_Questions;
 
-import javax.xml.transform.stax.StAXResult;
 
+import java.util.*;
 //AMAZON DICE QUESTION
 public class Dice {
     public static void main(String[] args) {
