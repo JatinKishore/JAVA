@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Combination_and_Permutation;
 import java.lang.reflect.Array;
 import java.util.*;
 public class Permutation {
