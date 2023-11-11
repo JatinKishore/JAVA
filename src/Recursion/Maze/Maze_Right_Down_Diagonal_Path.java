@@ -1,6 +1,6 @@
 package Recursion.Maze;
 
-public class MazePath {
+public class Maze_Right_Down_Diagonal_Path {
     public static void main(String[] args) {
         mazePath("",3,3);
     }
@@ -14,6 +14,9 @@ public class MazePath {
         }
         if(c>1){
             mazePath(str+"R",r,c-1);
+        }
+        if(r>1 && c>1){
+            mazePath(str+"V",r-1,c-1);
         }
 
     }

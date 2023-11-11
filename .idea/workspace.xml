@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="031adcfe-1abe-49bb-bea2-eeb409d7d30f" name="Changes" comment="Recursion Google and Amazon Questions">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Maze/MazePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Maze/PathCount.java" afterDir="false" />
+    <list default="true" id="031adcfe-1abe-49bb-bea2-eeb409d7d30f" name="Changes" comment="Maze Problems">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/BackTracking/AllPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/BackTracking/AllPathsPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Maze/Maze_Right_Down_Diagonal_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Maze/PathRestrictions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/MAANG_Questions/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/MAANG_Questions/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Maze/MazePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Maze/Maze_Right_Down_Path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Maze/PathCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Maze/Right_Down_PathCount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699325112653</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Maze Problems">
+      <option name="closed" value="true" />
+      <created>1699552304861</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1699552304861</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -300,7 +311,8 @@
     <MESSAGE value="OOP_7" />
     <MESSAGE value="OOP_7 &amp; Project Works on OOPS" />
     <MESSAGE value="Recursion Google and Amazon Questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recursion Google and Amazon Questions" />
+    <MESSAGE value="Maze Problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maze Problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

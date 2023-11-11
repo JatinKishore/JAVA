@@ -1,6 +1,6 @@
 package Recursion.Maze;
 
-public class PathCount {
+public class Right_Down_PathCount {
     public static void main(String[] args) {
         System.out.println(mazePaths(3,3));
     }
