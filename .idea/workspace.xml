@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="031adcfe-1abe-49bb-bea2-eeb409d7d30f" name="Changes" comment="Maze &amp; BackTracking Problems">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Arrays/Find_All_The_Indices_Of_The_Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Arrays/Find_The_Index_Of_The_Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Arrays/Sort_Checker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Combination_and_Permutation/Combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Number/Count_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Number/Fibonnanci_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Number/Product_Of_N_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Number/Reverse_A_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Number/Reverse_Counting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Number/Sum_Of_Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Patterns/Inverted_Triangle_Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Patterns/Triangle_Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Recursion_Flow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sorting_Algorithms/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sorting_Algorithms/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sorting_Algorithms/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sorting_Algorithms/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Strings/Remove_char_from_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Strings/Remove_subString_from_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/nQueens_nKnights_SudukoSolver/N_Knights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/nQueens_nKnights_SudukoSolver/N_Queens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/nQueens_nKnights_SudukoSolver/Sudoku_Solver.java" afterDir="false" />
+    <list default="true" id="031adcfe-1abe-49bb-bea2-eeb409d7d30f" name="Changes" comment="Uploaded All the files of Recursion including Sudoku_Solver">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Combination_and_Permutation/Permutation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699678943568</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Uploaded All the files of Recursion including Sudoku_Solver">
+      <option name="closed" value="true" />
+      <created>1699729894442</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699729894442</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -338,7 +323,8 @@
     <MESSAGE value="Recursion Google and Amazon Questions" />
     <MESSAGE value="Maze Problems" />
     <MESSAGE value="Maze &amp; BackTracking Problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maze &amp; BackTracking Problems" />
+    <MESSAGE value="Uploaded All the files of Recursion including Sudoku_Solver" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded All the files of Recursion including Sudoku_Solver" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
