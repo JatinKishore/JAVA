@@ -68,9 +68,6 @@ class Magazine extends libraryContents{
         this.runTime = runTime;
 
     }
-
-
-
 }
 class LibraryCatalog{
     libraryContents Obj;

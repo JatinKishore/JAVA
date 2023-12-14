@@ -6,7 +6,7 @@ public class Fibonnanci_Number
         System.out.print(fibo(6));
     }
     static int fibo(int N){
-        if(N<2){
+        if(N<=2){
             return 1;
         }
         return fibo(N-1) + fibo(N-2);
